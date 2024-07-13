@@ -1,3 +1,6 @@
+-- Require
+require(game.ServerScriptService:WaitForChild("GameSenseUI"))
+
 -- GameSenseUI Module
 local GameSenseUI = {}
 
